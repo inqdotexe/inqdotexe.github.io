@@ -6,7 +6,7 @@
 
 Область нажатия возвращающая на главную страницу сайта меньше самого логотипа, в следствии чего пользователю необходимо мышкой искать область по которой действует ссылка.
 
-![home_site](https://raw.github.com/inqdotexe/inqdotexe.github.io/master/imgs/home_site.png)
+![home_site](https://raw.github.com/inqdotexe/inqdotexe.github.io/master/images/home_site.png)
 
 <h5>Рекомендации:</h5>
 

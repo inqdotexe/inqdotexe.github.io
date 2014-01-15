@@ -1,4 +1,0 @@
-inqdotexe
-=========
-
-HCI project
